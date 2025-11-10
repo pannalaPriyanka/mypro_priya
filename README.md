@@ -1,7 +1,7 @@
 # mypro_priya
 <html>
   <head>
-    program
+  inline
   </head>
   <body>
       welcome to html!
